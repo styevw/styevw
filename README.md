@@ -5,6 +5,10 @@
 <p align="left">My name is Aditya Sulaiman and I'm a Artificial Intelligence Developer, from Makassar State University</p>
 
 ###
+<div align="center">
+  <img height="430" src="https://wallpapercave.com/wp/wp9259176.jpg"  />
+</div>
+###
 
 <h2 align="left">About me</h2>
 
