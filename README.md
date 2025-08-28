@@ -6,9 +6,8 @@
 
 ###
 <div align="center">
-  <img height="430" src="https://wallpapercave.com/wp/wp9259176.jpg"  />
+  <img height="350" weidth="1300" src="https://wallpapercave.com/wp/wp9259176.jpg"  />
 </div>
-###
 
 <h2 align="left">About me</h2>
 
