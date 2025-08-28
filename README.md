@@ -1,19 +1,43 @@
-## Hi there! 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I'm styevw, a passionate developer excited to explore new technologies and contribute to innovative projects! Let's build something amazing together!
+###
 
-## About Me
+<p align="left">My name is Aditya Sulaiman and I'm a Artificial Intelligence Developer, from Makassar State University</p>
 
-I'm a software enthusiast with a keen interest in coding and development. Although I'm just starting on my journey with GitHub, I'm eager to learn and grow my skills in various programming languages and frameworks. Currently, I am exploring the world of open-source development and contributing to exciting projects!
+###
 
-## Skills & Technologies
+<h2 align="left">About me</h2>
 
-discord,html,css,js,cpp,php,py
+###
 
-## Top Projects
+<p align="left">✨ I have loved the world of technology since childhood<br>📚 I'm currently learning some programming language<br>🎯 Goals: Become an artificial intelligence expert<br>🎲 Fun fact: I'm not smart but i work hard</p>
 
-Currently, I have just started my journey on GitHub and have one public gist. I'm excited to build and showcase more projects in the future! Stay tuned for updates!
+###
 
-## Recent Activity
+<h2 align="left">What i use</h2>
 
-As I am new to GitHub, I am currently working on exploring various repositories and understanding the community. Keep an eye on my contributions as I dive deeper!
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
